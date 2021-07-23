@@ -28,11 +28,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ### Bloco 3: Introdução - HTML & CSS
 
-:black_large_square: 3-1: _HTML & CSS - Estruturas de página_
+:ballot_box_with_check: 2-1: _HTML & CSS - Estruturas de página_
 
-:black_large_square: 3-2: _HTML & CSS - Primeiros passos em CSS_
+:ballot_box_with_check: 2-1: _HTML & CSS - Primeiros passos em CSS_
 
-:black_large_square: 3-3: _HTML & CSS - Seletores e posicionamento_
+:ballot_box_with_check: 2-1: _HTML & CSS - Seletores e posicionamento_
 
 :black_large_square: 3-4: _HTML Semântico_
 
@@ -452,17 +452,17 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 2-1: _What is it and what is it used for?_
 
-:ballot_box_with_check: _Understanding the commands_
+:ballot_box_with_check: 2-2: _Understanding the commands_
 
 :ballot_box_with_check: 2-3: _Internet - Understading how it works_
 
 ### Part 3: Introduction - HTML & CSS
 
-:black_large_square: 3-1: _HTML & CSS - Page structure_
+:ballot_box_with_check: 2-1: 3-1: _HTML & CSS - Page structure_
 
-:black_large_square: 3-2: _HTML & CSS - First steps_
+:ballot_box_with_check: 2-1: 3-2: _HTML & CSS - First steps_
 
-:black_large_square: 3-3: _HTML & CSS - Selectors and positioning_
+:ballot_box_with_check: 2-1: 3-3: _HTML & CSS - Selectors and positioning_
 
 :black_large_square: 3-4: _HTML semantic elements_
 
