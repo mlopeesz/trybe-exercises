@@ -1,7 +1,18 @@
-const myName = "Mauricio";
-const birthCity = "Vitória - ES";
-let birthYear = 1997;
+let estado = "aprovada";
 
-console.log(myName);
-console.log(birthCity);
-console.log(birthYear);
+switch (estado) {
+    case "aprovada":
+        console.log("Você foi aprovada(o)")
+        break;
+
+    case "lista":
+        console.log("Você está na lista de espera")
+        break;
+        
+    case "reprovada":
+        console.log("Você está reprovada(o)")
+        break;
+
+    default:
+        console.log("Não se aplica.")
+}
