@@ -7,3 +7,11 @@ for (let index = 1; index <= 25; index += 1){
   array.push(index);
 }
 console.log(array)
+
+// Utilizando o array criado no exercício anterior imprima o resultado da divisão de cada um dos elementos por 2 .
+let divisao = 0;
+
+for (let i = 0; i < array.length; i += 1){
+  divisao = array[i] / 2;
+  console.log(divisao)
+}
