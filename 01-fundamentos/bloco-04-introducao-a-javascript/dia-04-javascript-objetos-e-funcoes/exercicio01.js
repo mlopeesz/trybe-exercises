@@ -15,3 +15,8 @@ console.log(info)
 for(key in info){
   console.log(key)
 }
+
+//4 - Faça um novo for/in , mas agora mostre todos os valores das chaves do objeto. Valor esperado no console:
+for(key in info){
+  console.log(info[key])
+}
