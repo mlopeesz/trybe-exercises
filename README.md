@@ -36,20 +36,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :ballot_box_with_check: 3-4: _HTML Semântico_
 
-:black_large_square: 3-5: _Projeto - Lesson Learned_
+:ballot_box_with_check: 3-5: _Projeto - Lesson Learned_
   
 
 ### Bloco 4: Introdução - JavaScript e Lógica
 
-:black_large_square:  4-1: _JavaScript - Primeiros passos_
+:ballot_box_with_check:  4-1: _JavaScript - Primeiros passos_
 
-:black_large_square: 4-2: _JavaScript - Array e loop For_
+:ballot_box_with_check: 4-2: _JavaScript - Array e loop For_
 
-:black_large_square: 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+:ballot_box_with_check: 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 
-:black_large_square: 4-4: _JavaScript - Objetos e funções_
+:ballot_box_with_check: 4-4: _JavaScript - Objetos e funções_
 
-:black_large_square: 4-5: _Projeto - Playground Functions_
+:ballot_box_with_check: 4-5: _Projeto - Playground Functions_
 
   
 ### Bloco 5: Javascript: DOM, Eventos e Web Storage
@@ -466,19 +466,19 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 3-4: _HTML semantic elements_
 
-:black_large_square: 3-5: _Project - Lesson Learned_
+:ballot_box_with_check: 3-5: _Project - Lesson Learned_
   
 ### Part 4: Introdução - JavaScript e Lógica
 
-:black_large_square:  4-1: _JavaScript - First steps_
+:ballot_box_with_check:  4-1: _JavaScript - First steps_
 
-:black_large_square: 4-2: _JavaScript - Array e loop For_
+:ballot_box_with_check: 4-2: _JavaScript - Array e loop For_
 
-:black_large_square: 4-3: _JavaScript - Programming Logic and Algorithms_
+:ballot_box_with_check: 4-3: _JavaScript - Programming Logic and Algorithms_
 
-:black_large_square: 4-4: _JavaScript - Objects and functions_
+:ballot_box_with_check: 4-4: _JavaScript - Objects and functions_
 
-:black_large_square: 4-5: _Project - Playground Functions_
+:ballot_box_with_check: 4-5: _Project - Playground Functions_
 
 
 ### Part 5: Javascript: DOM, Events e Web Storage
