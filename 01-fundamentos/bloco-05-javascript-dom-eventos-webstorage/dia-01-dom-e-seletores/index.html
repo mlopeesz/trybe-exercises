@@ -64,12 +64,28 @@
         changeText();
 
         // Exercício 2
-        function changeSquareColor(){
+        function changeSquareColor1(){
           let yellowSquare = document.getElementsByClassName('main-content')[0];
           yellowSquare.style.background = "rgb(76,164,109)";
         }
 
-        changeSquareColor();
+        changeSquareColor1();
+
+        // Exercício 3
+        function changeSquareColor2(){
+          let redSquare = document.getElementsByClassName('center-content')[0];
+          redSquare.style.background = "rgb(255,255,255)";
+        }
+
+        changeSquareColor2();
+
+        //Exercicio 4
+        function fixH1() {
+          let titleH1 = document.getElementsByClassName('title')[0];
+          titleH1.innerHTML = 'Exercício 5.1 - JavaScript';
+        }
+
+        fixH1();
     </script>
   </body>
 </html>
