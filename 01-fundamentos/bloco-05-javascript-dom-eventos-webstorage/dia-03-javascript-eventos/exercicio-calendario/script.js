@@ -36,15 +36,36 @@ function createDaysOfTheMonth() {
   }
 }
 
+createDaysOfTheMonth();
+
 // Exercício 2
+const holidayButton = document.createElement('button');
 
 function createHolidayButton() {
-  const holidayButton = document.createElement('button');
   holidayButton.id = 'btn-holiday';
   holidayButton.innerText = 'Feriados'
   const divButton = document.querySelector('.buttons-container');
   divButton.appendChild(holidayButton);
 }
 
-// Exercício 3
 createHolidayButton();
+
+// Exercício 3
+
+function holidayButtonEvent() {
+  const getHolidays = document.querySelectorAll('.holiday');
+  const backgroundColor = 'rgb(238,238,238)';
+  const newColor = 'white';
+
+  holidayButton.addEventListener('click', function() {
+    for (let i = 0; i < getHolidays.length; i += 1) {
+      if (getHolidays[i].style.backgroundColor === backgroundColor) {
+        getHolidays[i].style.backgroundColor = newColor;
+      } else {
+        getHolidays[i].style.backgroundColor = backgroundColor;
+      }
+    }
+  })
+}
+
+holidayButtonEvent();
