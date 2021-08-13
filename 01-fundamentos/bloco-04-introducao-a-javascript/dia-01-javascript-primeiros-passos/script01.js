@@ -1,17 +1,35 @@
-let num1 = 10;
-let num2 = 5;
 
 //Soma
-let sum = num1 + num2;
+function sum(a, b) {
+  return console.log(a + b);
+}
+
+sum(4, 5)
 
 //Subtração
-let sub = num1 - num2;
+function sub(a, b) {
+  return console.log(a - b);
+}
+
+sub(4, 5)
 
 //Multiplicação
-let mult = num1 * num2;
+function mult(a, b) {
+  return console.log(a * b);
+}
+
+mult(4, 5)
 
 //Divisão
-let div = num1 / num2;
+function div(a, b) {
+  return console.log(a / b);
+}
+
+div(4, 5)
 
 //Módulo
-let mod = num1 % num2;
+function mod(a, b) {
+  return console.log(a % b);
+}
+
+mod(4, 5)
