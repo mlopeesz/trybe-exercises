@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="bulma.min.css" media="screen">
+  <title>Formulário</title>
+</head>
+<body>
+  <header class="container">
+    <h1>Formulário para cadastro de currículo</h1>
+    <p>Preencha os campos abaixo</p>
+  </header>
+  <main>
+    <form id="form-curriculo" method="GET">
+      <div>
+        <fieldset>
+          <div class="field">
+            <label class="label" for="name">Nome: </label>
+            <input class="input" type="text" name="name" id="name" maxlength="40" required>
+          </div>
+          <div class="field">
+            <label class="label" for="email">E-mail: </label>
+            <input type="text" name="email" id="email" maxlength="50" required>
+          </div>
+          <div class="field">
+            <label class="label" for="cpf">CPF: </label>
+            <input type="text" name="cpf" id="cpf" maxlength="11" required>
+          </div>
+          <div class="field">
+            <label class="label" for="address">Endereço: </label>
+            <input type="text" name="address" id="address" maxlength="200" required>
+          </div>
+          <div class="field">
+            <label class="label" for="city">Cidade: </label>
+            <input type="text" name="city" id="city" maxlength="28" required>
+          </div>
+          <div class="field">
+            <label class="label" for="state">Estado: </label>
+            <select class="form-select-sm" name="state" id="state" required>
+              <option disabled selected value></option>
+            </select>
+          </div>
+          <div class="field">
+            <label class="label" for="houseType">Tipo de imóvel: </label>
+            <input class="form-check-input" type="radio" name="houseType" id="house" value="house" required>
+            <label for="houseType">Casa</label>
+            <input class="form-check-input" type="radio" name="houseType" id="apartment" value="apartment" required>
+            <label for="HouseType">Apartamento</label>
+          </div>
+          <fieldset>
+             <div class="field">
+              <label class="label" for="resume">Resumo do currículo: </label>
+              <textarea class="textarea" id="resume" name="resume" maxlength="1000" required></textarea>
+            </div>
+             <div class="field">
+              <label class="label" for="role">Cargo: </label>
+              <input type="text" name="role" id="role" maxlength="40" required>
+            </div>
+             <div class="field">
+              <label class="label" for="roleDescription">Descrição do Cargo: </label>
+              <textarea class="textarea" type="text" name="roleDescription" id="roleDescription" maxlength="500" required></textarea>
+            </div>
+             <div class="field">
+              <label class="label" for="startDate">Data de início: </label>
+              <input type="text" name="startDate" class="input-data" required>
+            </div>
+        </fieldset>
+        <button class="submit-button" type="submit">Enviar</button>
+        <button class="clear-button" type="button">Limpar</button>
+      </div>
+    </form>
+  </main>
+  <section class="form-data"></section>
+  <script type="text/javascript" src="script.js"></script>  
+</body>
+</html>
