@@ -1,8 +1,9 @@
+// Exercicio 1
+
 const employeesGenerator = (fullname) => {
   const email = fullname.toLowerCase().split(' ').join('_');
   return { fullname, email: `${email}@trybe.com`}
 } 
-
 
 const newEmployees = (func) => {
   const employees = {
@@ -14,3 +15,14 @@ const newEmployees = (func) => {
 };
 
 console.log(newEmployees(employeesGenerator));
+
+// Exercicio 2
+
+const drawResult = (bet, func) => {
+  const randomNumber = Math.floor(Math.random() * (Math.floor(6) - Math.ceil(1))) + Math.ceil(1);
+  return func(bet, randomNumber) ? 'Parabéns, você ganhou!' : 'Tente novamente.'
+}
+
+const winOrLose = (bet, randomNumber) => bet === randomNumber
+
+console.log(drawResult(3, winOrLose));
