@@ -26,3 +26,5 @@ const drawResult = (bet, func) => {
 const winOrLose = (bet, randomNumber) => bet === randomNumber
 
 console.log(drawResult(3, winOrLose));
+
+// Exercicio 3
