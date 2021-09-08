@@ -54,59 +54,59 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
   
 ### Bloco 5: Javascript: DOM, Eventos e Web Storage
 
-:black_large_square: 5-1: _JavaScript - DOM e seletores_
+:ballot_box_with_check: 5-1: _JavaScript - DOM e seletores_
 
-:black_large_square: 5-2: _JavaScript - Trabalhando com elementos_
+:ballot_box_with_check: 5-2: _JavaScript - Trabalhando com elementos_
 
-:black_large_square: 5-3: _JavaScript - Eventos_
+:ballot_box_with_check: 5-3: _JavaScript - Eventos_
 
-:black_large_square:  5-4: _JavaScript - Web Storage_
+:ballot_box_with_check:  5-4: _JavaScript - Web Storage_
 
-:black_large_square: 5.5: _Projeto: Arte com Pixels_
+:ballot_box_with_check: 5.5: _Projeto: Arte com Pixels_
 
-:black_large_square: 5-6: _Projeto - Lista de tarefas_
+:ballot_box_with_check: 5-6: _Projeto - Lista de tarefas_
 
-:black_large_square: 5-7: _Projeto Bônus - Meme Generator_
+:ballot_box_with_check: 5-7: _Projeto Bônus - Meme Generator_
 
-:black_large_square: 5-7: _Projeto Bônus - Adivinhe a cor_
+:ballot_box_with_check: 5-7: _Projeto Bônus - Adivinhe a cor_
 
-:black_large_square: 5-7: _Projeto Bônus - Carta Misteriosa_
+:ballot_box_with_check: 5-7: _Projeto Bônus - Carta Misteriosa_
 
 
 ### Bloco 6: HTML & CSS avançado
 
-:black_large_square: 6-1: _HTML & CSS - Forms_
+:ballot_box_with_check: _HTML & CSS - Forms_
 
-:black_large_square: 6-2: _Bibliotecas JavaScript e Frameworks CSS_
+:ballot_box_with_check: _Bibliotecas JavaScript e Frameworks CSS_
 
-:black_large_square: 6-3: _CSS Flexbox - Part 1_
+:ballot_box_with_check: _CSS Flexbox - Part 1_
 
-:black_large_square: 6-4: _CSS Flexbox - Part 2_
+:ballot_box_with_check: _CSS Flexbox - Part 2_
 
-:black_large_square: 6-5: _CSS Responsivo - Mobile First_
+:ballot_box_with_check: _CSS Responsivo - Mobile First_
 
-:black_large_square: 6-6: _Projeto - Trybewarts_
+:ballot_box_with_check: _Projeto - Trybewarts_
 
 ### Bloco 7: JavaScript ES6 & Testes Unitários
 
-:black_large_square: 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
+:ballot_box_with_check: 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 
-:black_large_square: 7-2: _JavaScript ES6 - Objects_
+:ballot_box_with_check: 7-2: _JavaScript ES6 - Objects_
 
-:black_large_square: 7-3: _Testes unitários em JavaScript_
+:ballot_box_with_check: 7-3: _Testes unitários em JavaScript_
 
-:black_large_square: 7-4: _Projeto - JavaScript Testes Unitários_
+:ballot_box_with_check: 7-4: _Projeto - JavaScript Testes Unitários_
 
 
 ### Bloco 8: Higher Order Functions do JavaScript ES6
 
-:black_large_square:8-1: _JavaScript ES6 - Introdução Higher Order Functions_
+:ballot_box_with_check: 8-1: _JavaScript ES6 - Introdução Higher Order Functions_
 
-:black_large_square: 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+:ballot_box_with_check: 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 
-:black_large_square: 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
+:ballot_box_with_check: 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
 
-:black_large_square: 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
+:ballot_box_with_check: 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 
 :black_large_square: 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 
@@ -483,60 +483,60 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 ### Part 5: Javascript: DOM, Events e Web Storage
 
-:black_large_square: 5-1: _JavaScript - DOM and selectors_
+:ballot_box_with_check: 5-1: _JavaScript - DOM and selectors_
 
-:black_large_square: 5-2: _JavaScript - Working with elements_
+:ballot_box_with_check: 5-2: _JavaScript - Working with elements_
 
-:black_large_square: 5-3: _JavaScript - Events_
+:ballot_box_with_check: 5-3: _JavaScript - Events_
 
-:black_large_square:  5-4: _JavaScript - Web Storage_
+:ballot_box_with_check:  5-4: _JavaScript - Web Storage_
 
-:black_large_square: 5.5: _Project: Art with Pixels_
+:ballot_box_with_check: 5.5: _Project: Art with Pixels_
 
-:black_large_square: 5-6: _Project - To Do List_
+:ballot_box_with_check: 5-6: _Project - To Do List_
 
-:black_large_square: 5-7: _Bonus Project - Meme Generator_
+:ballot_box_with_check: 5-7: _Bonus Project - Meme Generator_
 
-:black_large_square: 5-7: _Bonus Project - Guess the Colour_
+:ballot_box_with_check: 5-7: _Bonus Project - Guess the Colour_
 
-:black_large_square: 5-7: _Bonus Project - Mysterious Card_
+:ballot_box_with_check: 5-7: _Bonus Project - Mysterious Card_
 
 
 ### Part 6: HTML & CSS avançado
 
-:black_large_square: 6-1: _HTML & CSS - Forms_
+:ballot_box_with_check: 6-1: _HTML & CSS - Forms_
 
-:black_large_square: 6-2: _JavaScript libraries and CSS Frameworks_
+:ballot_box_with_check: 6-2: _JavaScript libraries and CSS Frameworks_
 
-:black_large_square: 6-3: _CSS Flexbox - Part 1_
+:ballot_box_with_check: 6-3: _CSS Flexbox - Part 1_
 
-:black_large_square: 6-4: _CSS Flexbox - Part 2_
+:ballot_box_with_check: 6-4: _CSS Flexbox - Part 2_
 
-:black_large_square: 6-5: _CSS Responsive - Mobile First_
+:ballot_box_with_check: 6-5: _CSS Responsive - Mobile First_
 
-:black_large_square: 6-6: _Project - Trybewarts_
+:ballot_box_with_check: 6-6: _Project - Trybewarts_
 
 
 ### Part 7: JavaScript ES6 & Unit testing
 
-:black_large_square: 7-1: _JavaScript ES6 - let, const, arrow functions and template literals_
+:ballot_box_with_check: 7-1: _JavaScript ES6 - let, const, arrow functions and template literals_
 
-:black_large_square: 7-2: _JavaScript ES6 - Objects_
+:ballot_box_with_check: 7-2: _JavaScript ES6 - Objects_
 
-:black_large_square: 7-3: _Unit testing - JavaScript_
+:ballot_box_with_check: 7-3: _Unit testing - JavaScript_
 
-:black_large_square: 7-4: _Project - JavaScript Unit testing_
+:ballot_box_with_check: 7-4: _Project - JavaScript Unit testing_
 
 
 ### Part 8: Higher Order Functions do JavaScript ES6
 
-:black_large_square:8-1: _JavaScript ES6 - Introduction to Higher Order Functions_
+:ballot_box_with_check: 8-1: _JavaScript ES6 - Introduction to Higher Order Functions_
 
-:black_large_square: 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+:ballot_box_with_check: 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 
-:black_large_square: 8-3: _JavaScript ES6 - Higher Order Functions - map and filter_
+:ballot_box_with_check: 8-3: _JavaScript ES6 - Higher Order Functions - map and filter_
 
-:black_large_square: 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
+:ballot_box_with_check: 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 
 :black_large_square: 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
 
