@@ -538,18 +538,18 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 
-:black_large_square: 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
+:ballot_box_with_check: 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring and more_
 
-:black_large_square: 8-5: _Project - Zoo functions_
+:ballot_box_with_check: 8-5: _Project - Zoo functions_
 
 
 ### Part 9: Asynchronous Javascript and Promises
 
-:black_large_square: 9-1: _JavaScript Async and Callbacks_
+:ballot_box_with_check: 9-1: _JavaScript Async and Callbacks_
 
-:black_large_square: 9-2: _JavaScript Promises_
+:ballot_box_with_check: 9-2: _JavaScript Promises_
 
-:black_large_square: 9-3: _Project - Shopping Cart_
+:ballot_box_with_check: 9-3: _Project - Shopping Cart_
 
 
 ### Part 10: Automate Testing using Jest
