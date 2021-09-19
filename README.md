@@ -108,18 +108,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 :ballot_box_with_check: 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 
-:black_large_square: 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+:ballot_box_with_check: 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 
-:black_large_square: 8-5: _Projeto - Zoo functions_
+:ballot_box_with_check: 8-5: _Projeto - Zoo functions_
 
 
 ### Bloco 9: Javascript Assíncrono e Promises
 
-:black_large_square: 9-1: _JavaScript Assíncrono e Callbacks_
+:ballot_box_with_check: 9-1: _JavaScript Assíncrono e Callbacks_
 
-:black_large_square: 9-2: _JavaScript Promises_
+:ballot_box_with_check: 9-2: _JavaScript Promises_
 
-:black_large_square: 9-3: _Projeto - Carrinho de Compras_
+:ballot_box_with_check: 9-3: _Projeto - Carrinho de Compras_
 
 
 ### Bloco 10: Testes automatizados com Jest
