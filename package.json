@@ -4,7 +4,7 @@
   "description": ":rotating_light: If you are not a _portuguese_ speaker, you can find the _english_ version of this document [here](#english-version---trybe).",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/mlopeesz/trybe-exercises#readme",
   "dependencies": {
     "node-fetch": "^3.0.0"
+  },
+  "devDependencies": {
+    "jest": "^27.2.1"
   }
 }
