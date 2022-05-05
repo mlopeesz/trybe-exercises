@@ -1,0 +1,19 @@
+- Exercicio 1
+npm init
+git init
+npm install express
+npm install dotenv
+heroku create
+git push heroku master
+
+- Exercicio 2
+heroku config:set MESSAGE='Test' --app nome-do-seu-app-12345 //Adiciona variável de ambiente MESSAGE
+git push heroku master
+
+- Exercício 3
+get remote rename heroku homolog
+heroku create --remote prod
+heroku config:set MESSAGE="Test homolog" --app NOME-DO-APP-DE-HOMOLOG
+heroku config:set MESSAGE="Test prod" --app NOME-DO-APP-DE-PROD
+git push prod master
+git push homolog master
